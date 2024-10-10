@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171018549035",
+    "project_id": "little-reporting-app",
+    "storage_bucket": "little-reporting-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171018549035:android:5c781a2da01ce4ead3776e",
+        "android_client_info": {
+          "package_name": "com.example.litterreportingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYqATpDEgmdf1SKqP-m_dmfos-xbRStFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
